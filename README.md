@@ -1,4 +1,4 @@
-# TheMovies
+# Elements
 
 A simple project for Elements based on Kotlin MVVM clean architecture and material design,Room Database
 
