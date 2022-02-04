@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Elements</string>
+    <string name="citydata">All Cities</string>
+    <string name="weatherDetail">All City</string>
+    <string name="desc">Description</string>
+    <string name="sort_city">Sort by City</string>
+    <string name="sort_temp">Sort by Temperature </string>
+</resources>
