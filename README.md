@@ -1,6 +1,5 @@
-# Elements
 
-A simple project for Elements based on Kotlin MVVM clean architecture and material design,Room Database
+A simple project for Demo on Kotlin MVVM clean architecture and material design,Room Database
 
 ## How to build on your environment
 You can open the project in Android studio and press run.
@@ -28,4 +27,3 @@ Based on mvvm architecture and repository pattern.<br><br>
 1 It is assume that weather data changes frequently so existent data removed from
   database and new data will be inserted
 
-"# Elements Practical"
