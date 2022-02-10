@@ -22,8 +22,3 @@ Based on mvvm architecture and repository pattern.<br><br>
 - [Picasso] for loading images
 - Junit mock test
 - Espresso test
-
-## Note
-1 It is assume that weather data changes frequently so existent data removed from
-  database and new data will be inserted
-
